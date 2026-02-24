@@ -1,6 +1,11 @@
 
-customer-churn-predictor
+# 🏷️ Repository Name
 
+```
+customer-churn-predictor
+```
+
+---
 
 # 📌 GitHub Description (~320 words)
 
@@ -14,8 +19,11 @@ This repository follows good machine learning engineering practices with clear s
 
 Overall, this project serves as a solid portfolio piece for students and aspiring data scientists who want to showcase practical machine learning skills beyond text-based NLP tasks. It can be easily extended with advanced models, feature engineering, or deployment frameworks.
 
+---
 
 
+
+```markdown
 # 📉 Customer Churn Predictor
 
 A machine learning project that predicts whether a telecom customer is likely to churn using structured tabular data.
@@ -55,7 +63,7 @@ Each record includes:
 
 ## 📁 Project Structure
 
-
+```
 
 CHURN_PREDICTION/
 │
@@ -69,7 +77,7 @@ CHURN_PREDICTION/
 
 ````
 
-
+---
 
 ## ⚙️ Installation
 
@@ -133,13 +141,6 @@ Built as part of a machine learning portfolio project.
 
 ```
 
----
 
-If you want your repo to look **top-tier**, next smart upgrade is:
-
-👉 **"give xgboost version for churn"**
-
-That usually pushes accuracy higher.
 ::contentReference[oaicite:0]{index=0}
 ```
-
